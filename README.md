@@ -31,7 +31,7 @@ A Python command-line project that automates file organization, renaming, and ba
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/File-Automation-Tool.git
+   git clone https://github.com/Tholleti-Pavani/File-Automation-Tool.git
    ```
 2. Navigate into the project folder:
 
