@@ -1,0 +1,6 @@
+2025-10-18 15:42:05,035 - INFO - Moved file: Aadhar_ Card.pdf to folder: PDF
+2025-10-18 15:42:05,037 - INFO - Moved file: IMG_20240908_230908.jpg to folder: JPG
+2025-10-18 15:45:47,513 - INFO - Renamed 673f7096959d0_download.jpg to pavani_1.jpg
+2025-10-18 15:45:47,514 - INFO - Renamed IMG_20240908_230908.jpg to pavani_2.jpg
+2025-10-18 15:46:48,633 - INFO - Copied pavani_1.jpg to backup folder
+2025-10-18 15:46:48,637 - INFO - Copied pavani_2.jpg to backup folder
