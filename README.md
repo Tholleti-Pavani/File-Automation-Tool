@@ -76,7 +76,9 @@ A Python command-line project that automates file organization, renaming, and ba
 
 ## 👩‍💻 Author
 
-**Pavani**
+**Tholleti Pavani**
+
 Final Year B.Tech Student | Python Developer
-📧 [[your.email@example.com](mailto:your.email@example.com)]
+
+📧 [[pavanitholleti682@gmail.com](mailto:pavanitholleti682@gmail.com)]
 🌐 [Your GitHub Profile Link]
